@@ -27,7 +27,7 @@ Start Visual Studio Code, and open a new folder:
 
 There are two easy ways in Visual Studio Code to execute Python scripts. The
 first is using the built in terminal. Open a terminal using the Control
-backtick (<kbd>^</kbd> + <kbd>`</kbd>) key combination. This will open
+backtick (<kbd>^</kbd> + <kbd>\`</kbd>) key combination. This will open
 the terminal. Create a simple Python script, and execute this with the
 command `python name_of_the_python_file.py`:
 
